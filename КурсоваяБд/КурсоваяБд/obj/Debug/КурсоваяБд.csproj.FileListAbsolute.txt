@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\LabsBD\КурсоваяБД\КурсоваяБд\КурсоваяБд\bin\Debug\КурсоваяБд.exe.config
+C:\Users\User\Desktop\LabsBD\КурсоваяБД\КурсоваяБд\КурсоваяБд\bin\Debug\КурсоваяБд.exe
+C:\Users\User\Desktop\LabsBD\КурсоваяБД\КурсоваяБд\КурсоваяБд\bin\Debug\КурсоваяБд.pdb
+C:\Users\User\Desktop\LabsBD\КурсоваяБД\КурсоваяБд\КурсоваяБд\obj\Debug\КурсоваяБд.csprojAssemblyReference.cache
+C:\Users\User\Desktop\LabsBD\КурсоваяБД\КурсоваяБд\КурсоваяБд\obj\Debug\КурсоваяБд.Properties.Resources.resources
+C:\Users\User\Desktop\LabsBD\КурсоваяБД\КурсоваяБд\КурсоваяБд\obj\Debug\КурсоваяБд.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LabsBD\КурсоваяБД\КурсоваяБд\КурсоваяБд\obj\Debug\КурсоваяБд.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabsBD\КурсоваяБД\КурсоваяБд\КурсоваяБд\obj\Debug\КурсоваяБд.exe
+C:\Users\User\Desktop\LabsBD\КурсоваяБД\КурсоваяБд\КурсоваяБд\obj\Debug\КурсоваяБд.pdb
+C:\Users\User\Desktop\LabsBD\КурсоваяБД\КурсоваяБд\КурсоваяБд\obj\Debug\КурсоваяБд.Form1.resources
+C:\Users\User\Desktop\LabsBD\КурсоваяБД\КурсоваяБд\КурсоваяБд\obj\Debug\КурсоваяБд.Administration.resources
